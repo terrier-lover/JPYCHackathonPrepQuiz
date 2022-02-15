@@ -6,6 +6,7 @@
 
 https://user-images.githubusercontent.com/68787800/154030574-4c1007de-bbea-4e2d-8d6e-537dfa43199b.mp4
 
+上記の動画にて、回答のチェック＋NFT発行は未実装。Localnetでは回答のチェック＋NFT発行は一度のトランザクションで行っており、こちらは動作を確認済み。
 
 
 
